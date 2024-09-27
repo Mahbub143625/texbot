@@ -1,0 +1,5 @@
+telebot
+transformers
+torch
+pdfplumber
+pymongo
